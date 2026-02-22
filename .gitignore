@@ -2,3 +2,11 @@
 .gitconfig
 .openclaw/
 memory/test.md
+
+# Bot identity/config — tracked privately in my-brain, not in this public repo
+SOUL.md
+AGENTS.md
+IDENTITY.md
+USER.md
+TOOLS.md
+HEARTBEAT.md
