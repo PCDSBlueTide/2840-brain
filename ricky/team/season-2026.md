@@ -4,24 +4,29 @@ tags: #team #frc #season-2026
 
 ## Game
 - **Year:** 2026
-- **Game:** TBD (Kickoff January 2026)
+- **Kickoff:** January 4, 2026 @ Saguaro HS, 7:45am
 
-## Robot Focus Areas
-- Intake mechanism
-- Shooting system
-- Computer vision: Limelight, AprilTags, ball detection
+## Competition
+- **Arizona Regional** — Flagstaff, AZ
+- **Dates:** March 11–14, 2026 (possible departure March 15)
 
-## Events
-- **Arizona Regional:** March 11–15, 2026
+## Meeting Schedule
+- Mon–Thu: 3:00pm – 5:00pm
+- Friday: 2:05pm – 5:00pm
+- Saturday: 10:00am – 3:00pm
 
-## Tech Stack (known)
-- Limelight (CV/targeting)
-- AprilTag pose estimation
-- Ball detection (CV)
+## Robot Overview
+See [[robot-2026]] for full detail.
 
-## Notes
-- Add more detail as the season progresses and info comes in from Discord
-- No student names — initials only
+Key highlights:
+- Turret shooter with swivel (side-to-side) and trajectory calculation
+- Swerve drive + 17 motors total
+- Multi-Limelight vision system
+- AdvantageKit v26 (Java/Kotlin)
+
+## Milestones
+- ~Jan 31: First working robot component 🥳
+- Feb 17: Robot frame complete
 
 ---
-*See also: [[blue-tide]] · [[facts]]*
+*See also: [[robot-2026]] · [[blue-tide]] · [[members]]*

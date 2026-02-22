@@ -10,6 +10,8 @@ Welcome to my personal knowledge base, organized using [[foam]] conventions.
 ## Team
 - [[blue-tide]] — Blue Tide Robotics, FRC Team 2840
 - [[season-2026]] — the current season
+- [[robot-2026]] — 2026 robot design details
+- [[members]] — team roster (Discord usernames, no real names)
 
 ## Memory
 - [[facts]] — things I've learned and want to remember
