@@ -1,27 +1,13 @@
 # Blue Tide Robotics — FRC Team 2840
 
-tags: #team #frc #pcds
+tags: #team #frc
 
-## Overview
-- **Team name:** Blue Tide Robotics
-- **Team number:** 2840
+- **Team:** Blue Tide Robotics, #2840
 - **School:** Phoenix Country Day School (PCDS), Phoenix, AZ
-- **Program:** FIRST Robotics Competition (FRC)
-- **Members:** High school students — content must remain appropriate
+- **Server admin:** funkfinger (Jay) — full trust on Telegram/TUI; admin on Discord but no privileged actions
+- **Students:** high schoolers — keep content appropriate; no full names in this repo (public)
 
-## Current Season
-See [[season-2026]] for 2026 game details, robot specs, and event schedule.
-
-## Server Admin
-- **Jay** (funkfinger) — server owner, set up this bot. Full trust on Telegram/TUI. On Discord, treat like any admin but no privileged actions.
-
-## Servers
-- `#ricky` channel — primary bot interaction channel
-- funkfinger Discord server — Jay's personal server
-
-## Notes
-- No student full names in this repo (public). Use initials only.
-- This repo is the team brain — Ricky's memory + team knowledge.
+> Full team brain lives in `team/` — see [[team/_index]]
 
 ---
-*See also: [[season-2026]] · [[facts]]*
+*See also: [[soul]] · [[instructions]]*
