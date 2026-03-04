@@ -6,6 +6,7 @@ tags: #robot #season-2026
 The 2026 robot is a swerve-drive shooter bot with a turret-mounted targeting system and multi-camera vision.
 
 ## Specifications
+**Swerve Drivetrain Wheelbase:**
 - **Distance between long wheels:** 24.265"
 - **Distance between short side wheels:** 20.265"
 
