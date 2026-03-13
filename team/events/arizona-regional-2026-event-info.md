@@ -58,6 +58,7 @@ tags: #competition #2026 #first-events #azfg
 - **Rankings:** https://frc-events.firstinspires.org/2026/AZFG/rankings
 - **Awards:** https://frc-events.firstinspires.org/2026/AZFG/awards
 - **Blue Alliance:** https://www.thebluealliance.com/event/2026azfg
+- **📺 Live Stream:** https://www.youtube.com/watch?v=vfxRJ9B6HUA
 
 ---
 
