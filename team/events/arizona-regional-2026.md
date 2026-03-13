@@ -31,22 +31,46 @@ tags: #competition #2026 #regional
 - **6:30 PM:** Check into hotel
 - **7:00 PM – 9:00 PM:** Dinner with team
 
-### Thursday, March 12th
-- **8:00 AM – 6:00 PM:** Practice matches
+### Thursday, March 12th (Practice Matches)
+- **8:30 AM:** Doors open / Pit access begins
+- **8:30 AM – 5:30 PM:** Practice matches (intermittent schedule)
+- **5:30 PM – 6:00 PM:** Awards ceremony (if applicable)
+- **6:00 PM:** Competition field closes
 - **7:00 PM – 9:00 PM:** Dinner with team
 
-### Friday, March 13th
-- **8:00 AM – 6:00 PM:** Competition
+### Friday, March 13th (Qualification Matches)
+- **8:30 AM:** Doors open / Pit access begins
+- **8:30 AM – 5:30 PM:** Qualification matches (intermittent schedule)
+- **5:30 PM – 6:00 PM:** End of qualification rounds
+- **6:00 PM:** Competition field closes
 - **7:00 PM – 9:00 PM:** Dinner with team
 
-### Saturday, March 14th
-- **8:00 AM – 6:00 PM:** Competition & Finals
+### Saturday, March 14th (Playoffs & Finals)
+- **8:30 AM:** Doors open / Pit access begins
+- **8:30 AM – 11:00 AM:** Playoff matches
+- **11:00 AM – 12:00 PM:** Alliance selection & bracket announcements
+- **12:00 PM – 4:00 PM:** Finals matches
+- **4:00 PM – 5:00 PM:** Awards ceremony
+- **5:00 PM – 6:00 PM:** Celebration & final pit time
 - **6:00 PM – 8:00 PM:** Pit teardown
 - **8:00 PM – 10:00 PM:** Dinner with team
 
 ### Sunday, March 15th
 - **9:30 AM:** Checkout & Drive back to PCDS
 - **12:00 PM:** Unload robot & tools — Student pickup
+
+---
+
+## Webcast & Streaming
+
+**Official Webcast:** https://frc-events.firstinspires.org/2026/AZFG
+- Available daily during competition hours
+- Live scores, field video, and team statistics
+- Times: 8:30 AM – 6:00 PM MST each day
+
+**Additional Resources:**
+- The Blue Alliance: https://www.thebluealliance.com/event/2026azfg
+- Match schedules, rankings, and real-time updates
 
 ---
 
