@@ -9,9 +9,9 @@ tags: #competition #2026 #match-schedule #team-2840
 
 ## Friday, March 13, 2026
 
-### Match 1 — 8:50 AM
-🔵 **Blue Alliance:** 2840, 2403, 10114  
-🔴 Red Alliance: 6479, 5933, 9091
+### Match 1 — 8:50 AM ✅
+🔵 **Blue Alliance:** 2840, 2403, 10114 — **Score: 53**  
+🔴 Red Alliance: 6479, 5933, 9091 — **Score: 93**
 
 ### Match 18 — 11:16 AM
 🔵 **Blue Alliance:** 7425, 3009, 2840  
