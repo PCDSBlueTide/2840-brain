@@ -14,6 +14,7 @@ tags: #resources
 
 ## Vision
 - [Limelight Docs](https://docs.limelightvision.io)
+- [PhotonVision Docs](https://docs.photonvision.org/en/latest/)
 
 ## Hardware / Parts
 - [REV ION Compliant Wheels](https://www.revrobotics.com/ION-Compliant-Wheels/)
