@@ -8,6 +8,9 @@ This is the shared team knowledge base. Open it in VS Code with the [Foam](https
 
 ---
 
+## 📘 Team Handbook
+How-tos, standards, and checklists live in [`handbook/`](../handbook/) — start at the [README](../README.md).
+
 ## 🤖 Robot
 - [[blue-tide-2026]] — 2026 robot overview
 - [[drivetrain]] — swerve drive details
@@ -29,4 +32,4 @@ This is the shared team knowledge base. Open it in VS Code with the [Foam](https
 - [[resources]] — links, docs, useful references
 
 ---
-*Ricky's personal brain lives in `ricky/` — this folder is for the whole team.*
+*Season knowledge base. Contribution rules: [CONTRIBUTING](../CONTRIBUTING.md).*

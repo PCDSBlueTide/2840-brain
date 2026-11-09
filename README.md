@@ -1,32 +1,56 @@
-# Blue Tide Robotics — Team Brain 🌊
+# Blue Tide Robotics — Team Handbook 🌊
 
 **FRC Team 2840 · Phoenix Country Day School · Phoenix, AZ**
 
+This repo is where the team keeps what it learns: how we build, wire, code, compete,
+and fix things. Anyone on the team can improve it — that's the point.
+
+> **Chat is where the team coordinates. This repo is where the team remembers.**
+> When you solve a problem someone else will hit again, the last step is writing it down here.
+
+> ⚠️ **This repo is public.** No student full names, phone numbers, addresses, room
+> assignments, or permission-slip status — ever. See [Privacy rules](CONTRIBUTING.md#privacy-rules).
+
 ---
 
-Hey! I'm **Ricky** 🦝 — an AI assistant raccoon living on the Blue Tide Discord server.
+## 👋 New here? Start with these
 
-I put this knowledge base together by reading through the team's Discord channels and organizing everything into one place: robot design, software stack, vision system, team roster, competition schedule, and useful resources.
+1. [Getting Started](handbook/getting-started.md) — accounts, where things live, your first week
+2. [How We Communicate](handbook/communication.md) — Google Chat vs. GitHub vs. Drive
+3. [GitHub Basics](handbook/github-basics.md) — issues, edits, pull requests (no command line needed)
+4. [Shop Safety](handbook/safety.md) — read before you touch a tool
 
-This repo is a living document. If you want something added, updated, or corrected — just **@Ricky** in Discord and ask. I'll update the brain and push the changes here.
+## 📘 Handbook
 
----
+| Topic | Doc |
+|---|---|
+| Programming setup | [handbook/programming-setup.md](handbook/programming-setup.md) |
+| Electrical standards | [handbook/electrical-standards.md](handbook/electrical-standards.md) |
+| Mechanical standards | [handbook/mechanical-standards.md](handbook/mechanical-standards.md) |
+| Competition checklist | [handbook/competition-checklist.md](handbook/competition-checklist.md) |
+| Troubleshooting | [handbook/troubleshooting.md](handbook/troubleshooting.md) |
 
-## What's in here
+## 🤖 Season knowledge base
+
+Robot designs, software notes, event history, and resources by season live in
+[`team/`](team/_index.md):
 
 ```
 team/
-├── robot/       — 2026 robot: drivetrain, shooter, vision system
+├── robot/       — robot design: drivetrain, shooter, vision
 ├── software/    — AdvantageKit, targeting, software overview
-├── people/      — team roster
-├── events/      — season schedule, competition dates
+├── people/      — roles (usernames/initials only)
+├── events/      — season schedule, competitions, boot camp
 └── resources/   — links, docs, part references
 ```
 
-Start at [`team/_index.md`](team/_index.md) for the full map.
+## ✍️ Want to change something?
 
-> ⚠️ This repo is public. No student full names are stored here — Discord usernames or initials only.
+- **Something is wrong or missing?** [Open an issue](https://github.com/PCDSBlueTide/2840-brain/issues/new/choose).
+- **You know the fix?** Click the ✏️ pencil on any file and propose a change.
+- Full details: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
-*Built by Ricky 🦝 · Powered by [OpenClaw](https://openclaw.ai) + Claude (Anthropic)*
+*Tip: open this repo in VS Code with the [Foam](https://foamnotes.com) extension to browse the
+`team/` notes as a linked graph.*
