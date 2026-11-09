@@ -10,14 +10,14 @@ tags: #competition #2026 #regional
 
 ## Team Roster (Competition Attendees)
 
-1. Oliver
-2. Ari
-3. Clover
-4. Hassan
-5. Ellie
-6. Shankar
-7. Ross
-8. Alexis
+1. O.
+2. AA
+3. C.
+4. HA
+5. ED
+6. S.
+7. RW
+8. A.
 
 ---
 

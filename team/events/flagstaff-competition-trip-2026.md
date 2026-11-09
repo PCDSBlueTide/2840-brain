@@ -20,10 +20,10 @@ tags: #trip #logistics #arizona-regional #2026
 |------|-----------|
 | Room 1 | Gary |
 | Room 2 | Jay & Patrog |
-| Room 3 | Oliver & Shankar |
-| Room 4 | Alexis & Ari |
-| Room 5 | Ellie & Clover |
-| Room 6 | Hassan & Baquer |
+| Room 3 | O. & S. |
+| Room 4 | A. & AA |
+| Room 5 | ED & C. |
+| Room 6 | HA & Baquer |
 
 *Note: Patrog and Baquer are adult former team members — no paperwork required.*
 
@@ -35,20 +35,20 @@ tags: #trip #logistics #arizona-regional #2026
 
 | Student | Permission Slip | Self-Travel Form | Notes |
 |---------|----------------|-----------------|-------|
-| Shankar | ✅ | — | Standard transport |
-| Hassan | ✅ | — | Standard transport |
-| Alexis | ✅ | ✅ | Self-transport approved |
-| Ari | ✅ | — | Standard transport |
-| Ellie | ❌ **NEEDED** | ✅ | Parent signature required |
-| Clover | ❌ **NEEDED** | — | Parent signature required |
-| Oliver | ❌ **NEEDED** | ❌ **NEEDED** | Driving himself |
+| S. | ✅ | — | Standard transport |
+| HA | ✅ | — | Standard transport |
+| A. | ✅ | ✅ | Self-transport approved |
+| AA | ✅ | — | Standard transport |
+| ED | ❌ **NEEDED** | ✅ | Parent signature required |
+| C. | ❌ **NEEDED** | — | Parent signature required |
+| O. | ❌ **NEEDED** | ❌ **NEEDED** | Driving self |
 
 ### Outstanding Items (DO NOT LEAVE WITHOUT THESE)
 
-- [ ] **Ellie:** Permission slip
-- [ ] **Clover:** Permission slip
-- [ ] **Oliver:** Permission slip
-- [ ] **Oliver:** Self-travel form (driving himself)
+- [ ] **ED:** Permission slip
+- [ ] **C.:** Permission slip
+- [ ] **O.:** Permission slip
+- [ ] **O.:** Self-travel form (driving self)
 
 **Action:** Follow up with students & parents ASAP. Do NOT depart without signed permission slips.
 

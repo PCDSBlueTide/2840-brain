@@ -4,7 +4,7 @@
 
 This is the shared team knowledge base. Open it in VS Code with the [Foam](https://foamnotes.com) extension for the best experience.
 
-> ⚠️ This repo is public. First names only — no student last names.
+> ⚠️ This repo is public. Students by initials only — no names.
 
 ---
 
@@ -23,7 +23,7 @@ How-tos, standards, and checklists live in [`handbook/`](../handbook/) — start
 - [[targeting]] — trajectory math + turret targeting
 
 ## 👥 People
-- [[roster]] — team roster (first names/usernames only)
+- [[roster]] — team roster (initials/usernames only)
 
 ## 📅 Events
 - [[season-2026]] — schedule, milestones, competition dates

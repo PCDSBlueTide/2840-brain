@@ -8,7 +8,7 @@ and fix things. Anyone on the team can improve it — that's the point.
 > **Chat is where the team coordinates. This repo is where the team remembers.**
 > When you solve a problem someone else will hit again, the last step is writing it down here.
 
-> ⚠️ **This repo is public.** No student full names, phone numbers, addresses, room
+> ⚠️ **This repo is public.** No student names (initials only), phone numbers, addresses, room
 > assignments, or permission-slip status — ever. See [Privacy rules](CONTRIBUTING.md#privacy-rules).
 
 ---
@@ -39,7 +39,7 @@ Robot designs, software notes, event history, and resources by season live in
 team/
 ├── robot/       — robot design: drivetrain, shooter, vision
 ├── software/    — AdvantageKit, targeting, software overview
-├── people/      — roles (first names/usernames only)
+├── people/      — roles (initials/usernames only)
 ├── events/      — season schedule, competitions, boot camp
 └── resources/   — links, docs, part references
 ```

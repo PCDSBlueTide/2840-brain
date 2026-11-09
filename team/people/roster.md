@@ -2,7 +2,7 @@
 
 tags: #people
 
-> ⚠️ Public repo — first names or usernames only — no last names.
+> ⚠️ Public repo — students by initials or username only — no names.
 
 ## Adults / Mentors
 | Username | Role |
