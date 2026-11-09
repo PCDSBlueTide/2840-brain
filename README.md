@@ -39,7 +39,7 @@ Robot designs, software notes, event history, and resources by season live in
 team/
 ├── robot/       — robot design: drivetrain, shooter, vision
 ├── software/    — AdvantageKit, targeting, software overview
-├── people/      — roles (usernames/initials only)
+├── people/      — roles (first names/usernames only)
 ├── events/      — season schedule, competitions, boot camp
 └── resources/   — links, docs, part references
 ```

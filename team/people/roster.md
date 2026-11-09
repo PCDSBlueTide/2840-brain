@@ -2,7 +2,7 @@
 
 tags: #people
 
-> ⚠️ Public repo — no full names. Discord usernames and initials only.
+> ⚠️ Public repo — first names or usernames only — no last names.
 
 ## Adults / Mentors
 | Username | Role |

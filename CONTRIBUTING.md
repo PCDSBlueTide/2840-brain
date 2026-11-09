@@ -27,7 +27,8 @@ Rule of thumb: **if it'll still be useful next season, it goes here.**
 
 This repo is **public on the internet.** Before you commit, check:
 
-- ❌ No student **full names** — use first initial, GitHub username, or role ("software lead")
+- ✅ Student **first names**, GitHub usernames, or roles ("software lead") are fine
+- ❌ No student **last names** (full names)
 - ❌ No phone numbers, emails, home addresses, or birthdays
 - ❌ No **room assignments, travel plans, or permission-slip / medical status** — those go in the
   coaches' Drive folder
