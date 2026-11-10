@@ -23,7 +23,7 @@ How-tos, standards, and checklists live in [`handbook/`](../handbook/) — start
 - [[targeting]] — trajectory math + turret targeting
 
 ## 👥 People
-- [[roster]] — team roster (initials/usernames only)
+- [[roster - 2027]] — team roster (initials/usernames only)
 
 ## 📅 Events
 - [[season-2026]] — schedule, milestones, competition dates
