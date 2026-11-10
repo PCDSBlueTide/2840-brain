@@ -20,10 +20,16 @@ All robot work for the season lives on **one GitHub Project board**:
 
 ## The views (tabs on the board)
 
-- **All work** — the whole robot, by status
-- **One tab per subsystem** — e.g. *Shooter*: everything about the shooter, whoever does it
-- **One tab per sub-team** — e.g. *Software*: everything the programmers own
-- **Next event** — what has to be done before we load the trailer
+- **All work** — the whole robot as a board, by status
+- **By subsystem** — a list grouped by Subsystem (Drivetrain, Shooter, …)
+- **Next event** — board of everything with Target = *First event*
+- **By sub-team** — a list grouped by Sub-team
+- **In review** — things waiting for a lead to check
+- **My items** — just what's assigned to you
+- **Software** — board of everything the programmers own
+
+*Want a tab for one subsystem (e.g. Shooter)? Board → filter `subsystem:Shooter` → Save.
+Add those after kickoff once the subsystems are real.*
 
 ## Lifecycle of a task
 
