@@ -26,6 +26,7 @@ How-tos, standards, and checklists live in [`handbook/`](../handbook/) — start
 - [[roster - 2027]] — team roster (initials/usernames only)
 
 ## 📅 Events
+- [[season-2027]] — **2027 BIOCORE season**: key dates, AZ North registration, deadlines
 - [[season-2026]] — schedule, milestones, competition dates
 
 ## 🔗 Resources
