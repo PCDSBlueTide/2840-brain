@@ -47,6 +47,32 @@ Navigate to the folder (e.g. `handbook/`) → **Add file** → **Create new file
 2. Click a line's **+** to comment on it. Use **Suggest** to propose exact wording.
 3. **Review changes** → *Approve* or *Request changes*, with a short summary.
 
+## Teams and @mentions
+
+Everyone is in GitHub **teams** inside the `PCDSBlueTide` org. Teams decide what you can edit and
+let you ping a whole group at once.
+
+| Team | Who | Ping it with |
+|---|---|---|
+| `students` | Every current student (write access to the season repo, handbook, and board) | `@PCDSBlueTide/students` |
+| `software` · `mechanical` · `electrical` · `cad` · `business` | Each sub-team (inside `students`) | `@PCDSBlueTide/software` etc. |
+| `leads` | Captain and sub-team leads — they review and merge | `@PCDSBlueTide/leads` |
+| `mentors` | Coaches and adult mentors | `@PCDSBlueTide/mentors` |
+| `alumni` | Graduates | — |
+
+- Type the team mention in any issue or PR comment and everyone on that team gets notified —
+  like a Discord role ping. Use it when you need *that group*, not for everything.
+- **`master` is protected:** changes go through a pull request with **one approval**.
+  Leads are asked to review robot PRs automatically; mentors review handbook PRs.
+
+### For coaches: adding and removing people
+
+- **New member:** org → *People* → *Invite member* → then add them to `students` **and** their
+  sub-team. That's all the access they need.
+- **New lead:** add them to `leads` (keep them in `students` too).
+- **Graduation:** move them from `students` to `alumni`, or remove them from the org.
+- **Org owners** are adults only — owners can delete repos and change every setting.
+
 ## Markdown cheat sheet
 
 ```markdown

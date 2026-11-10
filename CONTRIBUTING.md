@@ -51,7 +51,8 @@ it — git keeps history, and a coach may need to scrub it properly).
 
 ## Reviews
 
-- Pull requests need **one approval** from a student lead or mentor before merging.
+- Pull requests need **one approval** from a student lead or mentor before merging — GitHub
+  enforces this on `master`. Mentors are requested automatically (`.github/CODEOWNERS`).
 - Reviewers: be kind, be specific, and suggest exact wording when you can.
 - Authors: it's normal to get change requests. That's the process working, not a grade.
 

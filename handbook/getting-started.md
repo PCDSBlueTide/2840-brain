@@ -25,7 +25,8 @@ Welcome to FRC Team 2840! This page gets you set up in your first week.
 
 - [ ] Read [Shop Safety](safety.md) and get signed off by a mentor
 - [ ] Join the Google Chat spaces (a coach will add you)
-- [ ] Join the `PCDSBlueTide` GitHub org
+- [ ] Join the `PCDSBlueTide` GitHub org — a coach adds you to `students` and your sub-team
+      ([Teams](github-basics.md#teams-and-mentions))
 - [ ] Complete FIRST registration + consent forms
 - [ ] Read [GitHub Basics](github-basics.md) and [Planning Board](planning-board.md)
 - [ ] **Make your first contribution:** find one thing in this handbook that's confusing,
