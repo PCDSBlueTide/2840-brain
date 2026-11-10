@@ -27,7 +27,8 @@ Blue Tide uses three tools. Each has one job.
 
 ## GitHub
 
-- **Issues** = a task, bug, or question that needs an owner. Use the templates.
+- **Issues** = a task, bug, or question that needs an owner. Use the templates. Robot work goes in
+  [robot-2027](https://github.com/PCDSBlueTide/robot-2027/issues); handbook fixes go in this repo.
 - **Projects board** = what's being worked on, and by whom. See [Planning Board](planning-board.md).
 - **Pull requests** = proposed changes to docs or code, reviewed before merging.
 - Turn on notifications: **Watch** this repo (top-right) → *Participating and @mentions* at minimum.

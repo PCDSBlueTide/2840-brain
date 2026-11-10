@@ -15,10 +15,13 @@ You can do everything on this page in a web browser. No command line, no install
 
 ## Open an issue
 
-1. Go to the repo's **Issues** tab → **New issue**.
-2. Pick a template (Task, Robot problem, Doc request).
+1. Pick the right repo:
+   - **Robot work** (build tasks, robot problems, code) → [robot-2027](https://github.com/PCDSBlueTide/robot-2027/issues/new/choose)
+   - **Handbook fixes** → [2840-brain](https://github.com/PCDSBlueTide/2840-brain/issues/new/choose)
+2. **Issues** tab → **New issue** → pick a template (Task, Robot problem, or Handbook request).
 3. Fill it in. Clear title: *"Intake roller slips under load"*, not *"broken"*.
-4. Submit. Add a sub-team **label** if the template didn't.
+4. Submit. For robot work, add it to the [2027 Robot board](planning-board.md) and set
+   Subsystem + Sub-team.
 
 ## Edit a doc (your first PR)
 

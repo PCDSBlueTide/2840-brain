@@ -1,5 +1,8 @@
 blank_issues_enabled: true
 contact_links:
+  - name: 🤖 Robot task or problem?
+    url: https://github.com/PCDSBlueTide/robot-2027/issues/new/choose
+    about: Build tasks and robot problems go in the season repo (robot-2027), not the handbook.
   - name: 💬 Quick question?
     url: https://chat.google.com
     about: For fast, today-only questions use the team's Google Chat spaces.

@@ -49,7 +49,8 @@ team/
 
 ## ✍️ Want to change something?
 
-- **Something is wrong or missing?** [Open an issue](https://github.com/PCDSBlueTide/2840-brain/issues/new/choose).
+- **Robot task or problem?** Open it in [robot-2027](https://github.com/PCDSBlueTide/robot-2027/issues/new/choose) — see [Planning board](handbook/planning-board.md).
+- **Something in the handbook is wrong or missing?** [Open an issue](https://github.com/PCDSBlueTide/2840-brain/issues/new/choose).
 - **You know the fix?** Click the ✏️ pencil on any file and propose a change.
 - Full details: [CONTRIBUTING.md](CONTRIBUTING.md)
 

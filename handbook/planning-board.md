@@ -27,9 +27,11 @@ All robot work for the season lives on **one GitHub Project board**:
 
 ## Lifecycle of a task
 
-1. **Open an issue** with a template (*Task* or *Robot problem*). Clear title:
+1. **Open an issue in [robot-2027](https://github.com/PCDSBlueTide/robot-2027/issues/new/choose)**
+   with a template (*Task* or *Robot problem*). Clear title:
    "Intake roller slips under load", not "intake broken".
-2. **Add it to the 2027 Robot project** (right sidebar → *Projects*) and set Subsystem + Sub-team.
+2. **Set Subsystem + Sub-team** on the board. (New robot-2027 issues land on the board
+   automatically; if one doesn't, add it from the issue's right sidebar → *Projects*.)
 3. **Pick it up:** assign yourself, move to *In progress*.
 4. **Code?** Open a pull request with `Closes #12` in the description.
 5. **Built/tested?** Move to *In review*; a lead checks it.
