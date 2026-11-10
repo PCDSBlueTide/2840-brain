@@ -1,4 +1,4 @@
-# Blue Tide Robotics — Team Brain 🌊
+# Season Knowledge Base 🌊
 
 **FRC Team 2840 · Phoenix Country Day School · Phoenix, AZ**
 

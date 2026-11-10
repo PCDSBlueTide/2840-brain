@@ -2,6 +2,8 @@
 
 **FRC Team 2840 · Phoenix Country Day School · Phoenix, AZ**
 
+📖 **Read it as a website (with search): [pcdsbluetide.github.io/2840-brain](https://pcdsbluetide.github.io/2840-brain/)**
+
 This repo is where the team keeps what it learns: how we build, wire, code, compete,
 and fix things. Anyone on the team can improve it — that's the point.
 
@@ -52,5 +54,6 @@ team/
 
 ---
 
-*Tip: open this repo in VS Code with the [Foam](https://foamnotes.com) extension to browse the
-`team/` notes as a linked graph.*
+*The website rebuilds automatically a minute or two after every change to `master`
+(see `.quartz/`). Tip: open this repo in VS Code with the [Foam](https://foamnotes.com)
+extension to browse the notes as a linked graph.*

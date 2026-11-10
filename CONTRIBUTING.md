@@ -45,8 +45,9 @@ it — git keeps history, and a coach may need to scrub it properly).
 - **Date anything that can go stale:** "As of Feb 2026, we use…"
 - **Link, don't copy.** Link to WPILib/vendor docs instead of pasting them.
 - **One topic per file.** Name files in `kebab-case.md`.
-- Use normal Markdown links (`[text](path.md)`) in `handbook/` so they work on GitHub.
-  (`team/` notes use Foam `[[wikilinks]]`, which work in VS Code.)
+- **Linking to another page:** either style works on the [website](https://pcdsbluetide.github.io/2840-brain/).
+  - `[[shooter]]` — easiest; just the file name, no folders. (Shows as plain text in GitHub's file view.)
+  - `[Shooter](../team/robot/shooter.md)` — standard Markdown; clickable on GitHub too.
 
 ## Reviews
 

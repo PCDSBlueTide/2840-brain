@@ -10,3 +10,7 @@ IDENTITY.md
 USER.md
 TOOLS.md
 HEARTBEAT.md
+
+# Handbook site build (see .quartz/build.sh)
+_site/
+.quartz/.work/
