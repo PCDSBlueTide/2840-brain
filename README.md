@@ -26,6 +26,7 @@ and fix things. Anyone on the team can improve it — that's the point.
 
 | Topic | Doc |
 |---|---|
+| Planning board (tasks) | [handbook/planning-board.md](handbook/planning-board.md) |
 | Programming setup | [handbook/programming-setup.md](handbook/programming-setup.md) |
 | Electrical standards | [handbook/electrical-standards.md](handbook/electrical-standards.md) |
 | Mechanical standards | [handbook/mechanical-standards.md](handbook/mechanical-standards.md) |

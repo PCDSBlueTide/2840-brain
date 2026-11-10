@@ -27,7 +27,7 @@ Welcome to FRC Team 2840! This page gets you set up in your first week.
 - [ ] Join the Google Chat spaces (a coach will add you)
 - [ ] Join the `PCDSBlueTide` GitHub org
 - [ ] Complete FIRST registration + consent forms
-- [ ] Read [GitHub Basics](github-basics.md)
+- [ ] Read [GitHub Basics](github-basics.md) and [Planning Board](planning-board.md)
 - [ ] **Make your first contribution:** find one thing in this handbook that's confusing,
       wrong, or missing, and open an issue or a pull request about it
 
